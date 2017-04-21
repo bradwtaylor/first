@@ -1,3 +1,3 @@
 # first
-placeholder for first link from portfolio site
+placeholder for first project from portfolio site
 
